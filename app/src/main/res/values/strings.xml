@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ArkademyLogin</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_an_account_register_now">Don\'t have an account? Register Now</string>
+    <string name="icon_header">Icon Header</string>
+</resources>
